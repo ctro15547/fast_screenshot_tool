@@ -19,3 +19,5 @@ D:\fast_screenshot_tool.exe -h
         api服务端口 (default "15580")
   -sn string
         设备序列号
+
+具体使用方式 and 授权码 请邮件联系

@@ -11,6 +11,9 @@ macOS （需要请联系）
 华为、小米、oppo、vivo、三星、荣耀
 所有安卓11以上机型
 
+性能：
+目前限制 1-5fps 基本够用了
+
 使用方法：
 
 D:\fast_screenshot_tool.exe -h
